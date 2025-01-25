@@ -39,7 +39,7 @@
     "html-webpack-plugin": "^5.5.0",
     "image-webpack-loader": "^8.0.1",
     "jest": "^27.3.1",
-    "react-hot-loader": "^4.13.0",
+    "react-hot-loader": "^4.13.1",
     "react-refresh": "^0.16.0",
     "regenerator-runtime": "^0.13.9",
     "style-loader": "^3.3.1",
@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "prop-types": "^15.7.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   }
 }
