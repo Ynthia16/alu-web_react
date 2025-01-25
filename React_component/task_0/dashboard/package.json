@@ -34,7 +34,6 @@
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
     "css-loader": "^6.5.1",
     "enzyme": "^3.11.0",
-    "enzyme-adapter-react-16": "^1.15.6",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.0",
     "image-webpack-loader": "^8.0.1",
@@ -48,6 +47,7 @@
     "webpack-dev-server": "^4.4.0"
   },
   "dependencies": {
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.8.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
